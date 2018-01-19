@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
-    put("Hello Canada")
+int main() {
+    puts("Hello Canada");
     return 0;
 }
